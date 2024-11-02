@@ -1,4 +1,5 @@
 Pyrogram
+pyrofork==2.3.48
 TgCrypto
 motor
 aiofiles
