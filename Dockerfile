@@ -25,6 +25,8 @@ RUN set -ex; \
         && rm -rf /var/lib/apt/lists/*
 
 RUN pip3 install setuptools wheel yarl multidict
+RUN git clone https://github.com/Mayuri-Chan/pyrofork.git /tmp/pyrofork
+RUN pip3 install /tmp/pyrofork
 COPY requirements.txt .
 RUN pip3 install -r requirements.txt
 RUN dpkg-reconfigure locales
