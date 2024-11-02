@@ -1,6 +1,6 @@
 Pyrogram
 TgCrypto
-pyrofork
+pyrofork==2.3.43
 motor
 aiofiles
 dnspython
