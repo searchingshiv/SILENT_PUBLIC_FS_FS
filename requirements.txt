@@ -1,6 +1,5 @@
 Pyrogram
 TgCrypto
-git+https://github.com/Mayuri-Chan/pyrofork.git
 motor
 aiofiles
 dnspython
