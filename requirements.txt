@@ -1,5 +1,5 @@
-Pyrogram
--e git+https://github.com/Mayuri-Chan/pyrofork.git#egg=pyrofork
+Pyrogram==1.4.16
+TgCrypto-pyrofork
 TgCrypto
 motor
 aiofiles
