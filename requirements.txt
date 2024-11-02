@@ -1,5 +1,5 @@
 Pyrogram
-pyrofork==2.3.48
+-e git+https://github.com/Mayuri-Chan/pyrofork.git#egg=pyrofork
 TgCrypto
 motor
 aiofiles
@@ -12,4 +12,3 @@ gunicorn==20.1.0
 Jinja2==3.0.3
 werkzeug==2.0.2
 itsdangerous==2.0.1
-
